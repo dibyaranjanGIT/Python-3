@@ -1,0 +1,5 @@
+for Class Name use Pascal case like AnimalClass()
+
+for Function name use Snake case animal_eat()
+
+name the object same as the Class but in snake case.
